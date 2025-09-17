@@ -1,2 +1,2 @@
-# Zoom
-A full stack video conferencing web application.
+# Stream AI
+A full stack AI video conferencing web application.
